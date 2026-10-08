@@ -1,0 +1,3 @@
+# Sportsbooks the owner can use, as The Odds API bookmaker keys.
+# Owner fills this in (Phase 0, O3). Choose from the keys listed in docs/reports/phase-0.md.
+books: []
